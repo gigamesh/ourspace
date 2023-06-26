@@ -1,6 +1,6 @@
-# Ourspace
+# Ourspace (WIP)
 
-Frontend for [Repstation](https://github.com/gigamesh/repstation) (WIP)
+Frontend for [Repstation](https://github.com/gigamesh/repstation)
 
 ## Description (todos)
 
@@ -9,4 +9,6 @@ Frontend for [Repstation](https://github.com/gigamesh/repstation) (WIP)
 - [ ] Enables setting profile data (via making attestations directly to EAS)
 - [ ] Enables “friending” another account (positive attestation)
 - [ ] Shows who has friended you and who you’ve friended
-- [ ] Let’s you see your “top 8” ala myspace, ranked by their rep.
+- [ ] Let’s you see your “top 8” ala myspace, ranked by their rep:
+
+![Myspace Top 8](top8.jpeg)

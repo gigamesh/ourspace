@@ -19,6 +19,9 @@ dependencies:
   next:
     specifier: 13.4.7
     version: 13.4.7(react-dom@18.2.0)(react@18.2.0)
+  preact:
+    specifier: ^10.15.1
+    version: 10.15.1
   react:
     specifier: 18.2.0
     version: 18.2.0
@@ -1824,6 +1827,10 @@ packages:
       nanoid: 3.3.6
       picocolors: 1.0.0
       source-map-js: 1.0.2
+    dev: false
+
+  /preact@10.15.1:
+    resolution: {integrity: sha512-qs2ansoQEwzNiV5eAcRT1p1EC/dmEzaATVDJNiB3g2sRDWdA7b7MurXdJjB2+/WQktGWZwxvDrnuRFbWuIr64g==}
     dev: false
 
   /prelude-ls@1.2.1:
